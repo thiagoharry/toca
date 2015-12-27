@@ -45,7 +45,7 @@ And finally, inside each of this directory, put the name of some album, if appli
 * evil_empire
 * residente_o_visitante
 
-This way, if you use the command **toca.sh rock**, it ideally will play all your rock musics. And even if you type some incomplete name, like **toca.sh raul**, it would play all the musics in the directory raul_seixas.
+This way, if you use the command **toca.sh rock**, it ideally would play all your rock musics. And even if you type some incomplete name, like **toca.sh raul**, it would play all the musics in the directory raul_seixas.
 
 ## Creating a subtitle
 
